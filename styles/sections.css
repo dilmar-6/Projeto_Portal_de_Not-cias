@@ -91,15 +91,6 @@ section header {
   }
 }
 
-aside {
-  grid-area: aside;
-}
-
-#more {
-  margin-top: 32px;
-  img{
-    width: 72px;
-    aspect-ratio: 1/1;
-    object-fit: cover;
-  }
+main {
+  margin-block: 50px;
 }

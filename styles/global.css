@@ -59,8 +59,7 @@ main {
 
   grid-template-areas: 
   "featured featured"
-  "weekly weekly"
-  "ia aside";
+  "weekly weekly";
 }
 
 .content-tag{
