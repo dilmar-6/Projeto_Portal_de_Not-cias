@@ -2,7 +2,6 @@
 
 Tech News é uma página web de notícias sobre tecnologia, desenvolvida para praticar a criação de interfaces modernas utilizando HTML e CSS.
 
-A interface apresenta diferentes categorias de tecnologia e uma organização em formato de portal de notícias, com uma notícia principal em destaque e outras notícias distribuídas em cards.
 
 ## ✨ Preview
 
