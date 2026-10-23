@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assents/banner.png" alt="Banner Pagina de viagens Travelgram" width="900">
+</p>
+
 # 📰 Tech News
 
 Tech News é uma página web de notícias sobre tecnologia, desenvolvida para praticar a criação de interfaces modernas utilizando HTML e CSS.
